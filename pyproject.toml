@@ -17,6 +17,7 @@ langchain-experimental = "^0.0.57"
 numexpr = "^2.10.0"
 wikipedia = "^1.4.0"
 langchainhub = "^0.1.15"
+black = {extras = ["jupyter"], version = "^24.4.2"}
 
 
 [tool.poetry.group.dev.dependencies]
